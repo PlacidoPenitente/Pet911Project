@@ -3,29 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet911Project", "Pet911Project\Pet911Project.csproj", "{193557E2-0DCA-47E2-9D8D-785079D4DA70}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet911Project.Tests", "Pet911Project.Tests\Pet911Project.Tests.csproj", "{E5FFF2F0-B76A-4BAE-AEAA-DAA9614434F9}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{193557E2-0DCA-47E2-9D8D-785079D4DA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{193557E2-0DCA-47E2-9D8D-785079D4DA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{193557E2-0DCA-47E2-9D8D-785079D4DA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{193557E2-0DCA-47E2-9D8D-785079D4DA70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E5FFF2F0-B76A-4BAE-AEAA-DAA9614434F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5FFF2F0-B76A-4BAE-AEAA-DAA9614434F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5FFF2F0-B76A-4BAE-AEAA-DAA9614434F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5FFF2F0-B76A-4BAE-AEAA-DAA9614434F9}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {66D71080-752A-4ACA-9961-991261ACC806}
+		SolutionGuid = {2E38A7DD-7472-4D14-9AD4-4FA4BA0F13FC}
 	EndGlobalSection
 EndGlobal
